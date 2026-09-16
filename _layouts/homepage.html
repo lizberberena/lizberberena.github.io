@@ -16,12 +16,24 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <meta name="image" property="og:image" content="https://lizberberena.com/img/2026-09-lizberberena.com-dark.png">
+    <meta name="image" property="og:image" content="{{ site.image }}">
     <meta name="description" property="og:description" content="{{ site.description }}">
     <meta name="title" property="og:title" content="{{ site.title }}">
     <meta name="author" content="{{ site.author_name }}">
     <meta name="github" content="{{ site.username }}">
-    <meta property="og:type" content="website"> 
+
+    <!-- Facebook / LinkedIn / Open Graph -->
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="{{ site.url }}" />
+    <meta property="og:title" content="{{ site.title }}" />
+    <meta property="og:description" content="{{ site.description }}" />
+    <meta property="og:image" content="{{ site.image }}" />
+
+    <!-- X / Twitter -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="{{ site.title }}" />
+    <meta name="twitter:description" content="{{ site.description }}" />
+    <meta name="twitter:image" content="{{ site.image }}" />
 
     {{ page.meta }}
   
