@@ -11,6 +11,10 @@
 	background: var(--accent-color);
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 body, html {
 	background-color: var(--bg-color);
 }
