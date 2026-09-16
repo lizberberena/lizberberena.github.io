@@ -11,9 +11,9 @@ baseurl:            "" # Base URL must end WITHOUT a slash, default: ""
 permalink:          /projects/:title # Post permalink
 timezone:           America/New_York # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 language:           en-US
-favicon:            /img/sitewideimg.png
-logo:               /img/sitewideimg.png
-image:              /img/2026-09-lizberberena.com-dark.png
+favicon:            https://lizberberena.com/img/sitewideimg.png
+logo:               https://lizberberena.com/img/sitewideimg.png
+image:              https://lizberberena.com/img/2026-09-lizberberena.com-dark.png
 
 # Pagination Settings
 paginate_path: "/pg-:num/"
