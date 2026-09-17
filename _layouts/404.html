@@ -1,1 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-5GSS1PWG3Q"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-5GSS1PWG3Q');
+</script>
+ 
+        
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta name="image" property="og:image" content="{{ site.image }}">
+    <meta name="description" property="og:description" content="{{ site.description }}">
+    <meta name="title" property="og:title" content="{{ site.title }}">
+    <meta name="author" content="{{ site.author_name }}">
+    <meta name="github" content="{{ site.username }}">
+
+    <!-- Facebook / LinkedIn / Open Graph -->
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="{{ site.url }}" />
+    <meta property="og:title" content="{{ site.title }}" />
+    <meta property="og:description" content="{{ site.description }}" />
+    <meta property="og:image" content="{{ site.image }}" />
+
+    <!-- X / Twitter -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="{{ site.title }}" />
+    <meta name="twitter:description" content="{{ site.description }}" />
+    <meta name="twitter:image" content="{{ site.image }}" />
+
+    <!-- For Search Engines (Google, Bing) -->
+    <meta name="article:published_time" content="2026-09-16T11:29:00Z" />
+  
+    <!-- For Social Media Previews (Open Graph / Facebook) -->
+    <meta property="article:published_time" content="2026-09-16T11:29:00Z" />
+
+    {{ page.meta }}
+  
+    <title>{{ site.title }} {{ page.title }}</title>
+
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous">
+    <link rel="stylesheet" href="/uikit/css/uikit.min.css" />	
+    <link href="/index.css" rel="stylesheet">
+    <link href="/cssreset.css" rel="stylesheet">
+    <link href="/cookie-banner.css" rel="stylesheet">
+    <link rel="shortcut icon" type="image/x-icon" href="{{ site.favicon }}">
+
+    <script src="/uikit/js/uikit.min.js"></script>
+    <script src="/uikit/js/uikit-icons.min.js"></script>
+    <script src="https://kit.fontawesome.com/56182aba27.js" crossorigin="anonymous"></script>
+</head>
+<body>
+
+
+        {{content}}
+  
+  <!--{% include cookie-banner.html %}-->
+<script src="/cookie-banner.js"></script>
+<script src="/mode-switcher.js"></script>
+<script src="/mobile-menu.js"></script>
+<script src="/showAboutMe.js"></script>
+  
+</body>
+</html>
