@@ -224,11 +224,12 @@ div.name a:active,
 }
 
 .card span {
-	text-align: center;
+	text-align: justify;
 	line-height: 135%;
 	letter-spacing: 0.25em;
 	text-transform: uppercase;
 	display: block;
+	margin: 0 auto;
 }
 
 .card .socials {
