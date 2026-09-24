@@ -1,1 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
 
+    {% include gtag.html %}
+  
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta name="image" property="og:image" content="{{ site.image }}">
+    <meta name="description" property="og:description" content="{{ site.description }}">
+    <meta name="title" property="og:title" content="{{ site.title }}">
+    <meta name="author" content="{{ site.author_name }}">
+    <meta name="github" content="{{ site.username }}">
+
+    <!-- Facebook / LinkedIn / Open Graph -->
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="{{ site.url }}" />
+    <meta property="og:title" content="{{ site.title }}" />
+    <meta property="og:description" content="{{ site.description }}" />
+    <meta property="og:image" content="{{ site.image }}" />
+
+    <!-- X / Twitter -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="{{ site.title }}" />
+    <meta name="twitter:description" content="{{ site.description }}" />
+    <meta name="twitter:image" content="{{ site.image }}" />
+
+    <!-- For Search Engines (Google, Bing) -->
+    <meta name="article:published_time" content="{{ page.time | date: '%Y-%m-%dT%H:%M:%S%z' }}" />
+  
+    <!-- For Social Media Previews (Open Graph / Facebook) -->
+    <meta property="article:published_time" content="{{ page.time | date: '%Y-%m-%dT%H:%M:%S%z' }}" />
+  
+    <title>{{ site.title }} {{ page.title }}</title>
+
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous">
+    <link rel="stylesheet" href="/uikit/css/uikit.min.css" />	
+    <link href="/index.css" rel="stylesheet">
+    <link href="/cssreset.css" rel="stylesheet">
+    <link href="/cookie-banner.css" rel="stylesheet">
+    <link rel="shortcut icon" type="image/x-icon" href="{{ site.favicon }}">
+
+    <script src="/uikit/js/uikit.min.js"></script>
+    <script src="/uikit/js/uikit-icons.min.js"></script>
+    <script src="https://kit.fontawesome.com/56182aba27.js" crossorigin="anonymous"></script>
+</head>
+<body>
+
+
+<div class="canvas">
+
+<div class="navigation" uk-scrollspy="cls:uk-animation-slide-top;">
+  <div class="logo" style="margin-top:5px;"><h1><a href="/">Liz&nbsp;Berberena's Portfolio</a><span>&nbsp;&nbsp;<!--<span class="slash">/</span>&nbsp; Web&nbsp;Developer&nbsp;&nbsp;&nbsp;--><a id="theme-toggle" class="desktop" onclick="modeSwitcher()" style="display:table-caption;margin:0px 30px 0px 0px;"></a></span></h1></div>
+  <i class="nav-toggle fa fa-2x fa-bars" aria-hidden="true" id="toggle-open"></i>
+    <div class="pages">
+      <div class="nav-mobile-header">
+        <h1 style="margin-top:2px;margin-bottom:10px!important;margin-left: -10px !important;">Liz&nbsp;Berberena's Portfolio<!--<span style="text-transform:uppercase!important;font-weight:normal!important;">&nbsp;&nbsp;<span class="slash">/</span>&nbsp; --><!--Web&nbsp;Developer</span>--></h1>
+          <i class="nav-toggle fa fa-2x fa-close" aria-hidden="true" id="toggle-close"></i>
+        </div>
+        <a href="/">Home</a>
+        <a href="#about" id="read-more" uk-smooth-scroll="">About</a>
+        <a href="#projects">Projects</a>
+        <a href="/resume-liz-berberena.pdf" target="_blank" download>Resume</a>
+        <a href="mailto:lizlberberena@gmail.com" target="_blank">Contact</a>
+    </div>
+</div>
+
+
+<div class="projects" id="projects" uk-scrollspy="cls:uk-animation-slide-left; target: .project; delay: 300;">  
+ 
+  
+    {{content}}
+
+
+    <p style="padding-top:50px!important;text-align:center;clear:both;">©&nbsp;{{ site.time | date: '%Y' }} Liz Berberena</p>
+    <p style="padding-top:20px!important;text-align:center;clear:both;" uk-scrollspy="cls:uk-animation-slide-bottom;"><a onclick='window.scrollTo({top: 0, behavior: "smooth"});'>Back to Top &nbsp;<i class="fas fa-arrow-up"></i></a></p>
+  
+</div>
+</div> 
+
+  <!--{% include cookie-banner.html %}-->
+<script src="/cookie-banner.js"></script>
+<script src="/mode-switcher.js"></script>
+<script src="/mobile-menu.js"></script>
+<script src="/showAboutMe.js"></script>
+  
+</body>
+</html>
