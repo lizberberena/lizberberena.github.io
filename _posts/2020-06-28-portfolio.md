@@ -3,7 +3,7 @@ layout: post
 title: Portfolio Websites
 projectDate: "OCT&nbsp;2017 – PRESENT"
 role: Web Development and Design
-img: portfolio-2024.png
+img: 2026-09-Portfolio.webp
 bgcolor: "#B6C3B9"
 link: https://github.com/lizberberena/lizberberena
 demo: https://lizberberena.com
