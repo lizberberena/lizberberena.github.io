@@ -513,6 +513,10 @@ div.gallery img {border-radius:20px;box-shadow: 0 2px 8px rgba(0,0,0,.08);width:
     display: table-caption!important;
 }
 
+#post-header h1 {
+  font-size: 30px !important;
+}
+
 @media (max-width: 1700px) {
 	.card {
 		margin-left: 44%;
