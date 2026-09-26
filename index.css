@@ -77,7 +77,7 @@ h2 {
 	padding-left: 20px;
 }
 
-p {
+p, .uk-accordion-title {
 	font-size: 17px!important;
 	line-height: 150%!important;
 }
@@ -155,7 +155,7 @@ div.name a.projectTitle {
 	padding-bottom: 3px;
 }
 
-.business p a {
+.business p a, .article p a {
         color: var(--accent-color)!important;
 	transition: all .3s;
 }
@@ -176,9 +176,13 @@ h1 a:active {
 div.name a:hover,
 div.name a:active,
 .business p a:hover,
-.business p a:active {
+.business p a:active,
+.article p a:hover,
+.article p a:active {
 	color: var(--text-color)!important;
 }
+
+/*.summary {font-style:italic;}*/
 
 .card {
 	background-color: var(--card-color);
@@ -466,6 +470,49 @@ div.contact {
 background-color:var(--owl)!important;
 }
 
+.article {
+  width: 75%;
+  margin: 0 auto;
+  padding: 20px;
+  background: var(--white-color);
+  box-shadow: -11.31px 11.31px 17px 0px var(--shadows);
+}
+
+.article p {
+  padding-bottom: 10px;
+}
+
+.uk-accordion-title::before {
+  float: left !important;
+  margin-left: 0 !important;
+  margin-right: 10px !important;
+}
+
+#post-header {
+  margin-bottom: 20px;
+  border-left: var(--accent-color) 10px solid;
+  padding-left: 20px;
+  margin-left: -20px;
+  padding-top: 10px;
+}
+
+.uk-lightbox-toolbar {background:rgba(0,0,0,0)!important;}
+
+p.caption {font-style:italic;font-size:80%!important;text-align:center;}
+
+div.gallery a img:hover {cursor:zoom-in;}
+
+div.gallery img {border-radius:20px;box-shadow: 0 2px 8px rgba(0,0,0,.08);width:100%;height:auto;}
+
+.article iframe {border-radius:20px;box-shadow: 0 2px 8px rgba(0,0,0,.08);}
+
+.external {
+	rotate: 45deg;
+	font-size: 60%;
+	margin-bottom: 5px;
+    display: table-caption!important;
+}
+
 @media (max-width: 1700px) {
 	.card {
 		margin-left: 44%;
@@ -541,6 +588,8 @@ background-color:var(--owl)!important;
 	/*.desktop {
 	display:none!important;
 	}*/
+
+	.article {width:100%!important;}
 	
 	.mobile {
 	display:block!important;
