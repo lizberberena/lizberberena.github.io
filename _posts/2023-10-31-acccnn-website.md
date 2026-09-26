@@ -6,7 +6,7 @@ role: Web Development and Design
 img: 2023-10-ACCCNN.webp
 bgcolor: "#8B8E93"
 link: https://lizberberena.com/projects/acccnn-website
-excerpt: One of my projects at Amplity was creating the website for the Association of Chronic & Complex Care Nurse Navigators (ACCCNN), a sister organization of AONN+, in time for their inaugural summit. I designed and built the website in Joomla with YOOtheme and kept the design simple and clean.
+excerpt: One of my projects at Amplity was creating the website for the Association of Chronic & Complex Care Nurse Navigators (ACCCNN), a sister organization of AONN+, in time for their inaugural summit. I designed and built the website in Joomla with YOOtheme and used HTML and CSS to customize widgets.
 featured: "yes"
 ---
 
