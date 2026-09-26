@@ -99,7 +99,8 @@
   
     
 {% for post in site.posts %}
-  
+
+  {% if post.featured %}
     <div class="project">
      <div class="projectDetails">
      <div class="name">
@@ -122,6 +123,7 @@
       <a href="{{ post.link }}"><div class="projectImage" style="background-image:url('/img/{{ post.img }}');background-color:{{ post.bgcolor }};"></div></a>
       {% endif %}
     </div>    
+  {% endif %}
 
 
         {% endfor %} 
