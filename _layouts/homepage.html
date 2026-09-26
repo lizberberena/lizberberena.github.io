@@ -1,8 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-
-    {% include gtag.html %}
   
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -47,6 +45,7 @@
 </head>
 <body>
 
+<div style="position:fixed; top:0; width:100%; background:rgba(244, 236, 230,1); padding:10px 5px; z-index:10000000000; text-align:center;"><a href="/" style="color:#4C785D!important;text-decoration:none!important;cursor:pointer!important;font-family: sans-serif !important;font-size: 16px;">You are on the dev site. Go to live site ➞</a></div>
 
 <div class="canvas">
 
@@ -108,11 +107,13 @@
      <div class="name">
        <p><a href="{{ post.link }}" target="_blank" class="projectTitle">{{ post.title }}</a></p>
        <p>{{ post.projectDate }}</p>
+       {% if post.demo %}
        <p><a href="{{ post.demo }}" target="_blank">Demo</a></p>
+       {% endif %}
      </div>
      <p>{{ post.excerpt }}</p>
      </div>
-     <a href="{{ post.demo }}" target="_blank"><div class="projectImage" style="background-image:url('/img/{{ post.img }}');background-color:{{ post.bgcolor }};"></div></a>
+     <a href="{{ post.link }}" target="_blank"><div class="projectImage" style="background-image:url('/img/{{ post.img }}');background-color:{{ post.bgcolor }};"></div></a>
     </div>    
 
 
