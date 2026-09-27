@@ -186,7 +186,7 @@ div.name a:active,
 
 .card {
 	background-color: var(--card-color);
-	box-shadow: -11.31px 11.31px 17px 0px var(--shadows);
+	/*box-shadow: -11.31px 11.31px 17px 0px var(--shadows);*/
 	width: 375px;
 	padding: 50px 0 0 0;
 	border: none;
@@ -386,7 +386,7 @@ div.project {
 	height: 404px;
 	margin-left: auto;
 	margin-right: auto;
-	box-shadow: -11.31px 11.31px 17px 0px var(--shadows);
+	/*box-shadow: -11.31px 11.31px 17px 0px var(--shadows);*/
 }
 
 div.projectDetails {
@@ -475,7 +475,7 @@ background-color:var(--owl)!important;
   margin: 0 auto;
   padding: 20px;
   background: var(--white-color);
-  box-shadow: -11.31px 11.31px 17px 0px var(--shadows);
+  /*box-shadow: -11.31px 11.31px 17px 0px var(--shadows);*/
 }
 
 .article p {
@@ -583,7 +583,7 @@ div.gallery img {border-radius:20px;box-shadow: 0 2px 8px rgba(0,0,0,.08);width:
 	}
 	div.projectImage {
 		margin-bottom: 50px;
-		box-shadow: -11.31px 11.31px 17px 0px var(--shadows);
+		/*box-shadow: -11.31px 11.31px 17px 0px var(--shadows);*/
 	}
 }
 
@@ -684,7 +684,7 @@ div.gallery img {border-radius:20px;box-shadow: 0 2px 8px rgba(0,0,0,.08);width:
 	}
 	div.projectImage {
 		margin-bottom: 0px;
-		box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
+		/*box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);*/
 	}
 	.card {
 		margin-top: 0px;
