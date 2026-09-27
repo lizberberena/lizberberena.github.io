@@ -754,7 +754,7 @@ html[data-theme="light"] {
 	--white-color: whitesmoke;
 	--bg-color: #deeee4;
 	--shadows: rgba(124, 124, 138, 0.23);
-	--highlight: white;
+	--highlight: black;
 }
 
 html[data-theme="dark"] {
@@ -788,7 +788,7 @@ html[data-theme="dark"] {
 		--white-color: whitesmoke;
 		--bg-color: #deeee4;
 		--shadows: rgba(124, 124, 138, 0.23);
-		--highlight: white;
+		--highlight: black;
 	}
 }
 
