@@ -515,6 +515,8 @@ div.gallery img {border-radius:20px;box-shadow: 0 2px 8px rgba(0,0,0,.08);width:
 
 #post-header h1 {
   font-size: 30px !important;
+  padding-bottom: 3px;
+  line-height: 150% !important;
 }
 
 @media (max-width: 1700px) {
