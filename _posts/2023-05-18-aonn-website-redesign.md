@@ -23,8 +23,8 @@ excerpt: One of my projects at Amplity was helping remake the website for the Ac
 
 <p><a href="https://www.jons-online.com/issues/2023/august-2023-vol-14-no-8/4953-aonn-website-relaunch-boasts-new-layout-9-new-navigation-tabs" target="_blank" rel="nofollow">Read an article about it&nbsp;<i class="fas fa-arrow-up external"></i></a> on the <em>JONS</em> website.</p>
 
+<!--
 <p style="padding-bottom:20px;">View more screenshots of this project below. Click to enlarge the images. Pinch to zoom in and out. Use left and right arrow keys to cycle through images.</p>
-
 
 <div uk-lightbox class="gallery">
 
@@ -46,6 +46,7 @@ excerpt: One of my projects at Amplity was helping remake the website for the Ac
 </div>
 </div>
  </div>
+-->
 
  <p style="padding-bottom:20px;padding-top:20px;">Watch a video tour of the website.</p>
 
