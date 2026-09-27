@@ -245,6 +245,7 @@ div.name a:active,
 	width: 100%;
 	margin-top: 30px;
 	text-align: center;
+	border-top:1px solid var(--highlight);
 }
 
 .card .socials i {
