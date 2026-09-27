@@ -526,8 +526,8 @@ div.gallery img {border-radius:20px;/*box-shadow: 0 2px 8px rgba(0,0,0,.08);*/wi
 }
 
 em {
-  font-style: italic;
-  color: inherit;
+  font-style: italic!important;
+  color: inherit!important;
 }
 
 @media (max-width: 1700px) {
