@@ -189,12 +189,12 @@ div.name a:active,
 	/*box-shadow: -11.31px 11.31px 17px 0px var(--shadows);*/
 	width: 375px;
 	padding: 50px 0 0 0;
-	border: none;
 	border-radius: 0px;
 	float: left;
 	margin-left: 66%;
 	/*66%*/
 	margin-top: 255px;
+	border: 1px solid var(--highlight);
 }
 
 /*.card h1,
@@ -378,8 +378,6 @@ div.introbuttons {
 	width: 100%;
 }
 
-
-
 div.project {
 	margin-top: 50px;
 	width: 750px;
@@ -387,6 +385,7 @@ div.project {
 	margin-left: auto;
 	margin-right: auto;
 	/*box-shadow: -11.31px 11.31px 17px 0px var(--shadows);*/
+	border: 1px solid var(--highlight);
 }
 
 div.projectDetails {
@@ -468,6 +467,7 @@ div.contact {
 
 #about-me img {
 background-color:var(--owl)!important;
+border: 1px solid var(--highlight);
 }
 
 .article {
@@ -475,6 +475,7 @@ background-color:var(--owl)!important;
   margin: 0 auto;
   padding: 20px;
   background: var(--white-color);
+  border: 1px solid var(--highlight);
   /*box-shadow: -11.31px 11.31px 17px 0px var(--shadows);*/
 }
 
@@ -502,9 +503,9 @@ p.caption {font-style:italic;font-size:80%!important;text-align:center;}
 
 div.gallery a img:hover {cursor:zoom-in;}
 
-div.gallery img {border-radius:20px;box-shadow: 0 2px 8px rgba(0,0,0,.08);width:100%;height:auto;}
+div.gallery img {border-radius:20px;/*box-shadow: 0 2px 8px rgba(0,0,0,.08);*/width:100%;height:auto;border: 1px solid var(--highlight);}
 
-.article iframe {border-radius:20px;box-shadow: 0 2px 8px rgba(0,0,0,.08);}
+.article iframe {border-radius:20px;/*box-shadow: 0 2px 8px rgba(0,0,0,.08);*/border: 1px solid var(--highlight);}
 
 .external {
 	rotate: 45deg;
@@ -742,6 +743,7 @@ html[data-theme="light"] {
 	--white-color: whitesmoke;
 	--bg-color: #deeee4;
 	--shadows: rgba(124, 124, 138, 0.23);
+	--highlight: white;
 }
 
 html[data-theme="dark"] {
@@ -752,6 +754,7 @@ html[data-theme="dark"] {
 	--white-color: #0b0317;
 	--bg-color: #1c1238;
 	--shadows: rgba(1, 0, 19, 0.23);
+	--highlight: black;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -764,6 +767,7 @@ html[data-theme="dark"] {
 		--white-color: #0b0317;
 		--bg-color: #1c1238;
 		--shadows: rgba(1, 0, 19, 0.23);
+		--highlight: black;
 	}
 	html[data-theme="light"] {
 		--owl: whitesmoke;
@@ -773,6 +777,7 @@ html[data-theme="dark"] {
 		--white-color: whitesmoke;
 		--bg-color: #deeee4;
 		--shadows: rgba(124, 124, 138, 0.23);
+		--highlight: white;
 	}
 }
 
