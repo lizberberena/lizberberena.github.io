@@ -216,6 +216,7 @@ div.name a:active,
 	margin-left: auto;
 	margin-right: auto;
 	margin-bottom: 30px;
+	border: 1px solide var(--highlight);
 }
 
 .card .divider {
