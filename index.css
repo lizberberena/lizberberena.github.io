@@ -525,6 +525,11 @@ div.gallery img {border-radius:20px;/*box-shadow: 0 2px 8px rgba(0,0,0,.08);*/wi
   line-height: 150% !important;
 }
 
+em {
+  font-style: italic;
+  color: inherit;
+}
+
 @media (max-width: 1700px) {
 	.card {
 		margin-left: 44%;
