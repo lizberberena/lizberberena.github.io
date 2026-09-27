@@ -12,14 +12,14 @@ excerpt: One of my projects at Amplity was helping remake the website for the Ac
 <p style="padding-bottom:20px;">One of my projects at Amplity was helping remake the website for the Academy of Oncology Nurse & Patient Navigators (AONN+), in time for their 2023 Midyear Conference. I helped build the website in Joomla with YOOtheme and used HTML and CSS to customize widgets.</p>
 
 <div class="gallery" uk-lightbox>
-<a href="/img/projects/ACCCNN-Homepage-Desktop.webp">
-<img src="/img/projects/ACCCNN-Homepage-Desktop-Preview.webp" alt="ACCCNN Homepage Desktop Preview" style="width:100%;height:auto;">
+<a href="/img/projects/AONN-Homepage-Desktop.webp">
+<img src="/img/projects/AONN-Homepage-Desktop-Preview.webp" alt="AONN+ Homepage Desktop Preview" style="width:100%;height:auto;">
 </a>
 </div>
 
 <p class="caption">AONN+ Homepage on Desktop. Click to enlarge.</p>
 
-<p><a href="https://web.archive.org/web/20230601055725/https://aonnonline.org/" target="_blank" rel="nofollow">View an archive&nbsp;<i class="fas fa-arrow-up external"></i></a> of this website on Wayback Machine.</p>
+<p><a href="https://web.archive.org/web/20260101005605/https://www.aonnonline.org/" target="_blank" rel="nofollow">View an archive&nbsp;<i class="fas fa-arrow-up external"></i></a> of this website on Wayback Machine. Note: Ads are blocked on Wayback Machine, and the current website does not have ads.</p>
 
 <p><a href="https://www.jons-online.com/issues/2023/august-2023-vol-14-no-8/4953-aonn-website-relaunch-boasts-new-layout-9-new-navigation-tabs" target="_blank" rel="nofollow">Read an article about it&nbsp;<i class="fas fa-arrow-up external"></i></a> on the <em>JONS</em> website.</p>
 
