@@ -275,7 +275,7 @@ div.name a:active,
 	z-index: 10;
 	position: fixed;
 	top: 0;
-	border: 1px solid var(--highlight);
+	border-bottom: 1px solid var(--highlight);
 }
 
 .pages {
@@ -337,7 +337,8 @@ a:not([href]):not([tabindex]):focus, a:not([href]):not([tabindex]):hover {
 	float: left;
 	width: 60%;
 	padding: 100px 200px 150px 150px;
-	border: 1px solid var(--highlight);
+	border-left: 1px solid var(--highlight);
+	border-bottom: 1px solid var(--highlight);
 }
 
 .business h3.greeting {
@@ -701,6 +702,7 @@ div.gallery img {border-radius:20px;/*box-shadow: 0 2px 8px rgba(0,0,0,.08);*/wi
 	}
 	.business {
 		padding: 100px 20px 80px 20px!important;
+		border-right: 1px solid var(--highlight);
 	}
 	
 	.projects {
