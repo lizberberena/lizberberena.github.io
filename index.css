@@ -391,14 +391,14 @@ div.project {
 
 div.projectDetails {
 	background-color: var(--white-color);
-	height: 404px;
+	height: 402px;
 	padding: 40px 30px;
 	width: 50%;
 	float: left;
 }
 
 div.projectImage {
-	height: 404px;
+	height: 402px;
 	width: 50%;
 	float: left;
 	background-position: center;
