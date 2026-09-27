@@ -49,4 +49,4 @@ excerpt: One of my projects at Amplity was helping remake the website for the Ac
 
  <p style="padding-bottom:20px;padding-top:20px;">Watch a video tour of the website.</p>
 
-<iframe src="https://drive.google.com/file/d/1cOFdIya0E5QXJjrpZeSavSwfdh7noXqZ/preview" width="100%" height="480"></iframe> 
+<iframe src="https://drive.google.com/file/d/1cOFdIya0E5QXJjrpZeSavSwfdh7noXqZ/preview" width="100%" height="480"></iframe>
