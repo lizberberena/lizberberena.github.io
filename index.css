@@ -504,7 +504,7 @@ border: 1px solid var(--highlight);
 
 .uk-lightbox-toolbar {background:rgba(0,0,0,0)!important;}
 
-p.caption {font-style:italic;font-size:80%!important;text-align:center;}
+p.caption {font-style:italic;font-size:80%!important;text-align:center;padding-top:5px;}
 
 div.gallery a img:hover {cursor:zoom-in;}
 
