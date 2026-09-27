@@ -4,7 +4,7 @@ title: AONN+ Website Redesign
 projectDate: "MAY&nbsp;2023"
 role: Web Development and Design
 img: AONN-Website.webp
-bgcolor: "#F8BFCF"
+bgcolor: "#985B92"
 link: https://lizberberena.com/projects/aonn-website-redesign
 excerpt: One of my projects at Amplity was helping remake the website for the Academy of Oncology Nurse & Patient Navigators (AONN+), in time for their 2023 Midyear Conference. I helped build the website in Joomla with YOOtheme and used HTML and CSS to customize widgets.
 featured: "yes"
