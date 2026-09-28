@@ -193,7 +193,7 @@ div.name a:active,
 	float: left;
 	margin-left: 66%;
 	/*66%*/
-	margin-top: 255px;
+	margin-top: 240px;
 	border: 1px solid var(--highlight);
 }
 
@@ -269,7 +269,7 @@ div.name a:active,
 }
 
 .navigation {
-	padding: 45px 50px;
+	padding: 35px 50px;
 	background: var(--white-color);
 	width: 100%;
 	z-index: 10;
