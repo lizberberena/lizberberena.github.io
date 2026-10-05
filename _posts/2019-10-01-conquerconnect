@@ -6,11 +6,11 @@ role: Web Development and Design
 img: 2023-10-ACCCNN.webp
 bgcolor: "#545F89"
 link: https://lizberberena.com/projects/conquerconnect
-excerpt: "At Amplity I created a microsite to promote the brand <em>CONQUER</em> at a conference. It was put on a custom USB drive that could be accessed offline."
+excerpt: "At Amplity I put together a microsite to promote the brand <em>CONQUER</em> at a conference. It was put on a custom USB drive that could be accessed offline by attendees on-site on their laptops."
 featured: "yes"
 ---
 
-<p style="padding-bottom:20px;">At Amplity I created a microsite to promote the brand <em>CONQUER</em> at a conference. It was put on a custom USB drive that could be accessed offline. This was a page I created with HTML and CSS to present the videos and graphics of the promotion.</p>
+<p style="padding-bottom:20px;">At Amplity I put together a microsite to promote the brand <em>CONQUER</em> at a conference. It was put on a custom USB drive that could be accessed offline by attendees on-site on their laptops. This was a group effort. My role was to create the web page with HTML and CSS, and its function was to present the promotional videos and graphics created by the team members.</p>
 
 <div class="gallery" uk-lightbox>
 <a href="/img/projects/ACCCNN-Homepage-Desktop.webp">
