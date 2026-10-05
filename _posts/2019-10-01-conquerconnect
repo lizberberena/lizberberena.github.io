@@ -1,1 +1,48 @@
+---
+layout: post
+title: CONQUERConnect
+projectDate: "OCT&nbsp;2019"
+role: Web Development and Design
+img: 2023-10-ACCCNN.webp
+bgcolor: "#545F89"
+link: https://lizberberena.com/projects/conquerconnect
+excerpt: "At Amplity I created a microsite to promote the brand <em>CONQUER</em> at a conference. It was put on a custom USB drive that could be accessed offline."
+featured: "yes"
+---
 
+<p style="padding-bottom:20px;">At Amplity I created a microsite to promote the brand <em>CONQUER</em> at a conference. It was put on a custom USB drive that could be accessed offline. This was a page I created with HTML and CSS to present the videos and graphics of the promotion.</p>
+
+<div class="gallery" uk-lightbox>
+<a href="/img/projects/ACCCNN-Homepage-Desktop.webp">
+<img src="/img/projects/ACCCNN-Homepage-Desktop-Preview.webp" alt="CONQUERConnect Desktop Preview" style="width:100%;height:auto;">
+</a>
+</div>
+
+<p class="caption">CONQUER Microsite on Desktop. Click to enlarge.</p>
+
+<p><a href="https://web.archive.org/web/20240501100835/http://acccnn.org/" target="_blank" rel="nofollow">Download the ZIP&nbsp;<i class="fas fa-arrow-up external"></i></a> of this microsite.</p>
+
+<p style="padding-bottom:20px;">View more screenshots of this project below. Click to enlarge the images. Pinch to zoom in and out. Use left and right arrow keys to cycle through images.</p>
+
+
+<div uk-lightbox class="gallery">
+
+<div uk-grid class="uk-child-width-1-3@m uk-grid-row-small uk-grid-column-small">
+ <div>
+ <a href="/img/projects/ACCCNN-Homepage-Mobile.webp">
+   <img src="/img/projects/ACCCNN-Homepage-Mobile-Preview.webp" alt="ACCCNN Homepage on Mobile">
+</a>
+ </div>
+<div>
+<a href="/img/projects/ACCCNN-Mobile-Menu.webp">
+ <img src="/img/projects/ACCCNN-Mobile-Menu.webp" alt="ACCCNN Menu on Mobile">
+</a>   
+</div>
+ <div>
+<a href="/img/projects/ACCCNN-Contact-Mobile.webp">
+ <img src="/img/projects/ACCCNN-Contact-Mobile-Preview.webp" alt="ACCCNN Contact Page on Mobile">
+</a>   
+</div>
+</div>
+ </div>
+ 
