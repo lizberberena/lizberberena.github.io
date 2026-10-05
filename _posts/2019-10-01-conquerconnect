@@ -13,8 +13,8 @@ featured: "yes"
 <p style="padding-bottom:20px;">At Amplity I put together a microsite to promote the brand <em>CONQUER</em> at a conference. It was put on a custom USB drive that could be accessed offline by attendees on-site on their laptops. This was a group effort. My role was to create the web page with HTML and CSS that matched the theme of the online website, and its function was to present the promotional videos and graphics created by the team members.</p>
 
 <div class="gallery" uk-lightbox>
-<a href="/img/projects/ACCCNN-Homepage-Desktop.webp">
-<img src="/img/projects/ACCCNN-Homepage-Desktop-Preview.webp" alt="CONQUERConnect Desktop Preview" style="width:100%;height:auto;">
+<a href="/img/projects/conquerconnect-page.webp">
+<img src="/img/projects/conquerconnect-page-preview.webp" alt="CONQUERConnect Desktop Preview" style="width:100%;height:auto;">
 </a>
 </div>
 
