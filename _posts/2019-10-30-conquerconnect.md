@@ -1,6 +1,6 @@
 ---
 layout: post
-title: #CONQUERConnect Promotional USB Microsite
+title: "#CONQUERConnect Promotional USB Microsite"
 projectDate: "OCT&nbsp;2019"
 role: Web Development and Design
 img: conquerconnect.webp
