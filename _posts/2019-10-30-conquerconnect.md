@@ -6,11 +6,11 @@ role: Web Development and Design
 img: conquerconnect.webp
 bgcolor: "#F6E1BD"
 link: https://lizberberena.com/projects/conquerconnect
-excerpt: "At The Lynx Group I put together a microsite to promote the brand <em>CONQUER</em> at a conference. It was put on a custom USB drive that could be accessed offline by attendees on-site on their laptops."
+excerpt: "At The Lynx Group, I put together a microsite to promote the brand <em>CONQUER</em> at a conference. It was put on a custom USB drive that could be accessed offline by attendees on-site on their laptops."
 featured: "yes"
 ---
 
-<p style="padding-bottom:20px;">At Amplity I put together a microsite to promote the brand <em>CONQUER</em> at a conference. It was put on a custom USB drive that could be accessed offline by attendees on-site on their laptops. This was a group effort. My role was to create the web page with HTML and CSS that matched the theme of the online website, and its function was to present the promotional videos and graphics created by the team members.</p>
+<p style="padding-bottom:20px;">At The Lynx Group, I put together a microsite to promote the brand <em>CONQUER</em> at a conference. It was put on a custom USB drive that could be accessed offline by attendees on-site on their laptops. This was a group effort. My role was to create the web page with HTML and CSS that matched the theme of the online website, and its function was to present the promotional videos and graphics created by the team members.</p>
 
 <div class="gallery" uk-lightbox>
 <a href="/img/projects/conquerconnect-page.webp">
