@@ -10,15 +10,14 @@ excerpt: "At The Lynx Group, I put together a microsite to promote the brand <em
 featured: "yes"
 ---
 
-<p style="padding-bottom:20px;">At The Lynx Group, I put together a microsite to promote the brand <em>CONQUER</em> at a conference. It was put on a custom USB drive that could be accessed offline by attendees on-site on their laptops. This was a group effort. My role was to create the web page with HTML and CSS that matched the theme of the online website, and its function was to present the promotional videos and graphics created by the team members.</p>
-
-<div class="gallery" uk-lightbox>
+<div class="uk-align-right@m" uk-lightbox>
 <a href="/img/projects/conquerconnect-page.webp">
-<img src="/img/projects/conquerconnect-page-preview.webp" alt="CONQUERConnect Desktop Preview" style="width:100%;height:auto;">
+<img src="/img/projects/conquerconnect-preview.webp" alt="CONQUERConnect Desktop Preview" style="width:100%;height:auto;">
 </a>
+ <p class="caption">CONQUER Microsite on Desktop. Click to enlarge.</p>
 </div>
 
-<p class="caption">CONQUER Microsite on Desktop. Click to enlarge.</p>
+<p style="">At The Lynx Group, I put together a microsite to promote the brand <em>CONQUER</em> at a conference. It was put on a custom USB drive that could be accessed offline by attendees on-site on their laptops. This was a group effort. My role was to create the web page with HTML and CSS that matched the theme of the online website, and its function was to present the promotional videos and graphics created by the team members.</p>
 
 <p><a href="https://drive.google.com/file/d/1sg1apKLeVsCYFK938cfJ2-qBkad4sz7s/view?usp=sharing" target="_blank" rel="nofollow">Download the ZIP&nbsp;<i class="fas fa-download"></i></a> of this microsite.</p>
 
