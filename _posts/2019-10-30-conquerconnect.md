@@ -10,7 +10,7 @@ excerpt: "At The Lynx Group, I put together a microsite to promote the brand <em
 featured: "yes"
 ---
 
-<div class="uk-align-right@m" uk-lightbox>
+<div class="uk-align-right@m" style="max-width:400px;" uk-lightbox>
 <a href="/img/projects/conquerconnect-page.webp">
 <img src="/img/projects/conquerconnect-preview.webp" alt="CONQUERConnect Desktop Preview" style="width:100%;height:auto;">
 </a>
