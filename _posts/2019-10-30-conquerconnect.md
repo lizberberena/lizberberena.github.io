@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "#CONQUERconnect Promotional USB Microsite"
+title: "#CONQUERconnect Portable Microsite"
 projectDate: "OCT&nbsp;2019"
 role: Web Development and Design
 img: conquerconnect.webp
@@ -14,7 +14,7 @@ featured: "yes"
 <a href="/img/projects/conquerconnect-page.webp">
 <img src="/img/projects/conquerconnect-preview.webp" alt="CONQUERConnect Desktop Preview" style="width:100%;height:auto;">
 </a>
- <p class="caption">CONQUER Microsite on Desktop. Click to enlarge.</p>
+ <p class="caption"><em>CONQUER</em> Microsite on Desktop. Click to enlarge.</p>
 </div>
 
 <p style="">At The Lynx Group, I put together a microsite to promote the brand <em>CONQUER</em> at a conference. It was put on a custom USB drive that could be accessed offline by attendees on-site on their laptops. This was a group effort. My role was to create the web page with HTML and CSS that matched the theme of the online website, and its function was to present the promotional videos and graphics created by the team members.</p>
