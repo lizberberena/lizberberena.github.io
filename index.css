@@ -551,7 +551,7 @@ em {
 
 @media (max-width: 960px) {
   .uk-align-right\@m, .uk-align-left\@m {
-	width:100%!important;
+	max-width:100%!important;
   }
 }
 
