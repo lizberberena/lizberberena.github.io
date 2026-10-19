@@ -9,19 +9,17 @@ link: https://lizberberena.com/projects/conquer-website-redesign
 excerpt: "One of my projects at Amplity was helping remake the website for <em>Conquer: the journey informed</em>, in time for the AONN+ 2023 Annual Conference. I helped build the website in Joomla with YOOtheme and used HTML and CSS to customize widgets."
 ---
 
-<p style="padding-bottom:20px;">One of my projects at Amplity was helping remake the website for the Academy of Oncology Nurse & Patient Navigators (AONN+), in time for their 2023 Midyear Conference. I helped build the website in Joomla with YOOtheme and used HTML and CSS to customize widgets. I was the web producer for this partner brand from 2019 until late 2025, when they parted ways with Amplity. More screenshots coming soon!</p>
+<p style="padding-bottom:20px;">One of my projects at Amplity was helping remake the website for <em>Conquer: the journey informed</em>, in time for the AONN+ 2023 Annual Conference. I helped build the website in Joomla with YOOtheme and used HTML and CSS to customize widgets. I was the web producer for this partner brand from 2019 through 2026. More screenshots coming soon!</p>
 
 <div class="gallery" uk-lightbox>
 <a href="/img/projects/2024-AONN-Homepage-Desktop.webp">
-<img src="/img/projects/AONN-Homepage-Desktop-Preview.webp" alt="AONN+ Homepage Desktop Preview" style="width:100%;height:auto;">
+<img src="/img/projects/AONN-Homepage-Desktop-Preview.webp" alt="Conquer Homepage Desktop Preview" style="width:100%;height:auto;">
 </a>
 </div>
 
-<p class="caption">AONN+ Homepage on Desktop. Click to enlarge.</p>
+<p class="caption"><em>Conquer</em> Homepage on Desktop. Click to enlarge.</p>
 
-<p><a href="https://web.archive.org/web/20260101005605/https://www.aonnonline.org/" target="_blank" rel="nofollow">View an archive&nbsp;<i class="fas fa-arrow-up external"></i></a> of this website on Wayback Machine. You can <a href="https://web.archive.org/web/20260000000000*/aonnonline.org" target="_blank" rel="nofollow">explore snapshots&nbsp;<i class="fas fa-arrow-up external"></i></a> from 2019 through 2025. Note: Ads are blocked on Wayback Machine, and the current website does not have ads.</p>
-
-<p><a href="https://www.jons-online.com/issues/2023/august-2023-vol-14-no-8/4953-aonn-website-relaunch-boasts-new-layout-9-new-navigation-tabs" target="_blank" rel="nofollow">Read an article about it&nbsp;<i class="fas fa-arrow-up external"></i></a> on the <em>JONS</em> website.</p>
+<p><a href="https://web.archive.org/web/20231210171059/https://conquer-magazine.com/" target="_blank" rel="nofollow">View an archive&nbsp;<i class="fas fa-arrow-up external"></i></a> of this website on Wayback Machine from when the redesign debuted. At the time of writing this, the website is still up. You can <a href="https://web.archive.org/web/20260501000000*/conquer-magazine.com" target="_blank" rel="nofollow">explore snapshots&nbsp;<i class="fas fa-arrow-up external"></i></a> from July, 2019, through September, 2026. Note: Ads are blocked on Wayback Machine.</p>
 
 <!--
 <p style="padding-bottom:20px;">View more screenshots of this project below. Click to enlarge the images. Pinch to zoom in and out. Use left and right arrow keys to cycle through images.</p>
