@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Conquer Website Redesign
-projectDate: "OCT&nbsp;2023"
+projectDate: "NOV&nbsp;2023"
 role: Web Development and Design
 img: Conquer-Homepage-Desktop.webp
 bgcolor: "#D1E4EC"
