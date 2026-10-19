@@ -7,7 +7,6 @@ img: AONN-Website.webp
 bgcolor: "#985B92"
 link: https://lizberberena.com/projects/conquer-website-redesign
 excerpt: "One of my projects at Amplity was helping remake the website for <em>Conquer: the journey informed</em>, in time for the AONN+ 2023 Annual Conference. I helped build the website in Joomla with YOOtheme and used HTML and CSS to customize widgets."
-featured: "yes"
 ---
 
 <p style="padding-bottom:20px;">One of my projects at Amplity was helping remake the website for the Academy of Oncology Nurse & Patient Navigators (AONN+), in time for their 2023 Midyear Conference. I helped build the website in Joomla with YOOtheme and used HTML and CSS to customize widgets. I was the web producer for this partner brand from 2019 until late 2025, when they parted ways with Amplity. More screenshots coming soon!</p>
