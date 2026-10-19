@@ -12,7 +12,7 @@ excerpt: "One of my projects at Amplity was helping remake the website for <em>C
 <div class="uk-align-right@m" style="max-width:50%;" uk-lightbox>
 <a href="/img/projects/2026-09-09-conquer-homepage-desktop.webp">
 <img src="/img/projects/Conquer-Homepage-Desktop-Preview.webp" alt="Conquer Homepage Desktop Preview" style="width:100%;height:auto;">
-</a>
+</a> 
  <p class="caption"><em>Conquer</em> Homepage on Desktop. Click to enlarge.</p>
 </div>
 
