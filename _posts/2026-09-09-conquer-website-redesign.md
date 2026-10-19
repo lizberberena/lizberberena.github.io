@@ -3,15 +3,15 @@ layout: post
 title: Conquer Website Redesign
 projectDate: "OCT&nbsp;2023"
 role: Web Development and Design
-img: AONN-Website.webp
-bgcolor: "#985B92"
+img: Conquer-Homepage-Desktop.webp
+bgcolor: "#D1E4EC"
 link: https://lizberberena.com/projects/conquer-website-redesign
 excerpt: "One of my projects at Amplity was helping remake the website for <em>Conquer: the journey informed</em>, in time for the AONN+ 2023 Annual Conference. I helped build the website in Joomla with YOOtheme and used HTML and CSS to customize widgets."
 ---
 
 <div class="uk-align-right@m" style="max-width:50%;" uk-lightbox>
-<a href="/img/projects/conquerconnect-page.webp">
-<img src="/img/projects/conquerconnect-preview.webp" alt="CONQUERConnect Homepage Desktop Preview" style="width:100%;height:auto;">
+<a href="/img/projects/2026-09-09-conquer-homepage-desktop.webp">
+<img src="/img/projects/Conquer-Homepage-Desktop.webp" alt="Conquer Homepage Desktop Preview" style="width:100%;height:auto;">
 </a>
  <p class="caption"><em>Conquer</em> Homepage on Desktop. Click to enlarge.</p>
 </div>
