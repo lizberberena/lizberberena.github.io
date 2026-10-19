@@ -19,7 +19,7 @@ excerpt: "One of my projects at Amplity was helping remake the website for <em>C
 
 <p class="caption"><em>Conquer</em> Homepage on Desktop. Click to enlarge.</p>
 
-<p><a href="https://web.archive.org/web/20231210171059/https://conquer-magazine.com/" target="_blank" rel="nofollow">View an archive&nbsp;<i class="fas fa-arrow-up external"></i></a> of this website on Wayback Machine from when the redesign debuted. At the time of writing this, the website is still up. You can <a href="https://web.archive.org/web/20260501000000*/conquer-magazine.com" target="_blank" rel="nofollow">explore snapshots&nbsp;<i class="fas fa-arrow-up external"></i></a> from July, 2019, through September, 2026. Note: Ads are blocked on Wayback Machine.</p>
+<p><a href="https://web.archive.org/web/20231210171059/https://conquer-magazine.com/" target="_blank" rel="nofollow">View an archive&nbsp;<i class="fas fa-arrow-up external"></i></a> of this website on Wayback Machine from when the redesign debuted. At the time of writing this, the website is still up. You can <a href="https://web.archive.org/web/20260501000000*/conquer-magazine.com" target="_blank" rel="nofollow">explore snapshots&nbsp;<i class="fas fa-arrow-up external"></i></a> from August, 2019, through September, 2026. Note: Ads are blocked on Wayback Machine.</p>
 
 <!--
 <p style="padding-bottom:20px;">View more screenshots of this project below. Click to enlarge the images. Pinch to zoom in and out. Use left and right arrow keys to cycle through images.</p>
