@@ -549,6 +549,12 @@ em {
 	}
 }
 
+@media (max-width: 960px) {
+  .uk-align-right\@m, .uk-align-left\@m {
+	width:100%!important;
+  }
+}
+
 @media (max-width: 890px) {
 	div.business {
 		padding-left: 80px;
