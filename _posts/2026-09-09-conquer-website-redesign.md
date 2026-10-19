@@ -47,4 +47,4 @@ excerpt: "One of my projects at Amplity was helping remake the website for <em>C
 
  <p style="padding-bottom:20px;">Watch a video tour of the website from 2026.</p>
 
-<iframe src="https://drive.google.com/file/d/1cduNgKH86M-GcqercD1W__lt9RREP-EP/preview" width="100%" height="480"></iframe>
+<iframe src="https://drive.google.com/file/d/1__w2fHqNIvkoEn1Jl51y2ppIhDwlEmCA/preview" width="100%" height="480"></iframe>
