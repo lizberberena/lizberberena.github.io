@@ -6,6 +6,7 @@ role: Web Development and Design
 img: Conquer-Homepage-Desktop.webp
 bgcolor: "#D1E4EC"
 link: https://lizberberena.com/projects/conquer-website-redesign
+live: https://www.conquer-magazine.com
 excerpt: "One of my projects at Amplity was helping remake the website for <em>Conquer: the journey informed</em>, in time for the AONN+ 2023 Annual Conference. I helped build the website in Joomla with YOOtheme and used HTML and CSS to customize widgets."
 featured: "yes"
 ---
