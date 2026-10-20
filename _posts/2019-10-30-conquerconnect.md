@@ -6,6 +6,7 @@ role: Web Development and Design
 img: conquerconnect.webp
 bgcolor: "#F6E1BD"
 link: https://lizberberena.com/projects/conquerconnect
+demo: https://drive.google.com/file/d/1sg1apKLeVsCYFK938cfJ2-qBkad4sz7s/view?usp=sharing
 excerpt: "At The Lynx Group, I put together a microsite to promote the brand <em>CONQUER</em> at a conference. It was put on a custom USB drive that could be accessed offline by attendees on-site on their laptops."
 featured: "yes"
 ---
