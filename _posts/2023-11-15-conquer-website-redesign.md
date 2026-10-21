@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Conquer Website Redesign
+title: "<em>Conquer</em> Website Redesign"
 projectDate: "NOV&nbsp;2023"
 role: Web Development and Design
 img: Conquer-Homepage-Desktop.webp
