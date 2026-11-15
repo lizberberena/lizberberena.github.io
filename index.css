@@ -771,7 +771,7 @@ html[data-theme="dark"] {
 	--white-color: #0b0317;
 	--bg-color: #1c1238;
 	--shadows: rgba(1, 0, 19, 0.23);
-	--highlight: lavender;
+	--highlight: #342663;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -784,7 +784,7 @@ html[data-theme="dark"] {
 		--white-color: #0b0317;
 		--bg-color: #1c1238;
 		--shadows: rgba(1, 0, 19, 0.23);
-		--highlight: lavender;
+		--highlight: #342663;
 	}
 	html[data-theme="light"] {
 		--owl: whitesmoke;
