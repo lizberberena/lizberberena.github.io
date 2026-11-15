@@ -396,7 +396,7 @@ div.project {
 div.projectDetails {
 	background-color: var(--white-color);
 	height: 402px;
-	padding: 40px 30px;
+	padding: 36px 30px;
 	width: 50%;
 	float: left;
 }
